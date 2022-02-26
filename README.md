@@ -8,4 +8,4 @@
 
 ## Have a sample review
 
-![restaurant_website Image](/Users/apple/Documents/screenshots/Screenshot\ 2022-02-26\ at\ 9.10.53\ PM.png)
+<img width="1367" alt="Screenshot 2022-02-26 at 9 10 53 PM" src="https://user-images.githubusercontent.com/63280027/155849569-c0752842-4d5d-44a6-ae12-c04e86723a8c.png">
